@@ -2,7 +2,7 @@ Hi there 👋 I am Dilip Gawade final year BSc. IT student (2021-2024) from Mumb
 
 Currently working on a BlackJack game using React.js. I came to know about this game when I was watching a tutorial for JavaScript on freecodecamp YouTube channel.
 
-If you are hiring for Junior roles or even if you have some internship please feel free to connect with me.
+If you are hiring for Junior roles or even if you have some internship regarding frontend development (React.js) please feel free to connect with me.
 
 Thanks and regards,
 
